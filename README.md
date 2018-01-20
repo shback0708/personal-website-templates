@@ -5,7 +5,7 @@
 * I will add more templates with time.
 
 ### Templates
-1. [Template 1](www.agrawalpriyank.com/template1)
+1. [Template 1](www.agrawalpriyank.com/template1/)
 
 ### How to use it
 1. Fork this repository to have your own copy
