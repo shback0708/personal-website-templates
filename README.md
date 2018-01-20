@@ -12,5 +12,5 @@
 2. Clone your copy on your local system
 3. Start making changes in any template of your choice and host it on [github.com](https://pages.github.com/) or any other domain hosting websites such as godaddy.com
 
-### Contributions
+### Contributing
 * Contributions are more than welcome so feel free to submit a pull request to make changes in existing templates or contribute new templates to help the community
