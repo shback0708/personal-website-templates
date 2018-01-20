@@ -1,2 +1,1 @@
-# personal-website-templates
-Templates for your personal website!
+# Personal Website Templates
